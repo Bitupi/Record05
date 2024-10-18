@@ -1,0 +1,26 @@
+{
+  "name": "Rosalie Williamson",
+  "age": 47,
+  "address": {
+    "street": "Pomla Court",
+    "city": "Jabkigos",
+    "state": "TN",
+    "zip": "03336"
+  },
+  "contact": {
+    "phone": "(932) 634-5273",
+    "servicePhone": "800285484"
+  },
+  "birthday": "2000-09-14T04:09:36.405Z",
+  "ip": "248.180.176.217",
+  "foo": "bar",
+  "profile": {
+    "about": "Idju boop buneviv gib fu boahu lopow pidipbis ucane ipe repuc wihdonmu udunabzu kukbibtiw timorokow umu ifbaco. Co ezarava po pachekem pawew kel wiaca uwamu wimor cinbahu latugwu kumu. Cumokibu wainkuv omuofi noevma repuf raz hul jof haczambe hava sodawne opimado zu ahu reb efjijaz navhe. Fin tesamet jende ma ak cen wa capobu visbe mez bowimkis fac ju lake ajocag vekemzos kebsu ficehan.",
+    "bio": "Duma edobieza beasvaj dagebo sukogud dudu va te gowiv izevnin fevili cosecen tec. Bedewo hahwole ha hinu poguvej mocvecob fasu settimo zuwoihu kuusa dohihfuj pifcuwu cig oheile tihha fe ifosajok ke. Pidujna kuwgatna ku irofuc pichicvej vid dum lolhivbo hub ew tolu veicu. Gub gezwarsa po pis tomsotah ucocec hahufar vumetope wo kefawmat egodeir ifo uzoga kahifuz tu cisnapkat avi lejbas. Ze azru ocsaz lum fedubto gej lo ehopa nidcazsan cegaro heihju gop le."
+  },
+  "apiKey": "59d7a21f50c3f707089630827fdd3338a8a1a2145defd34dd3adfdad701e84c4",
+  "currency": {
+    "code": "MXN",
+    "name": "Mexico Peso"
+  }
+}
