@@ -1,0 +1,26 @@
+{
+  "name": "Jane Page",
+  "age": 31,
+  "address": {
+    "street": "Anevu Mill",
+    "city": "Jukgube",
+    "state": "RI",
+    "zip": "45726"
+  },
+  "contact": {
+    "phone": "(968) 472-8116",
+    "servicePhone": "800399644"
+  },
+  "birthday": "1971-07-26T02:57:27.773Z",
+  "ip": "227.100.106.73",
+  "foo": "bar",
+  "profile": {
+    "about": "Udoam botfedla iv pizof ifca rip wimzi eju mahcuju unaso ciusiel ladobibi. Jatot go geje sabaz tu iru fokwevfud leajne eb toh obogilic sisted tu. Butohle mez vim pabevro tullu ov ca dutvewcaj povteno zolde beh aluwi zueleha muin politbit jeazu.",
+    "bio": "Po kan masosraw egiz socsahi fehho heb bavpec vozdovuhe va am ajeek eremof. Niudjik rapjidwav ded motetewuc guwo ha ge sirdev ra vinco cinfiwo pitioho toz. Utwej opmezjek el ominoup apo uhlemaw or woili cisbi zof ge ibzoveb lezezsut ko lopepwiw. Behwugsiz kini owivugjah kezole zu aro paw al jat zevisha voh vigbe gihoit."
+  },
+  "apiKey": "3c3cdd5ea4d83462c5804a038b542ed6f0416d54a91e554d231d4f1d7899dc42",
+  "currency": {
+    "code": "FJD",
+    "name": "Fiji Dollar"
+  }
+}
