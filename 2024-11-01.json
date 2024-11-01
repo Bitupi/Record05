@@ -1,0 +1,26 @@
+{
+  "name": "Edward Moran",
+  "age": 56,
+  "address": {
+    "street": "Iwova Plaza",
+    "city": "Hepuze",
+    "state": "CT",
+    "zip": "58192"
+  },
+  "contact": {
+    "phone": "(887) 516-8022",
+    "servicePhone": "800222284"
+  },
+  "birthday": "1964-10-23T06:05:53.350Z",
+  "ip": "85.65.207.116",
+  "foo": "bar",
+  "profile": {
+    "about": "Dowsavu heg imoraov omefed unuewo fubwanhe minup wi befil fugzum zofba epear abma inher nal bipvuoha. Bowis mohekin fezek koedri og ifkuh ku revah naju juejki wo mutakzil. Zeagne soc fam fu ed delmi ma remrep du gehaev wir guwpuf lolwibra vi fimmijur mokga rej.",
+    "bio": "Opsi ki jomujibe ci ec mofpo egvueca bilutmat meiz cokli nefohi kabbimam. Fipozevi zeprawo sumucu mad zazi memi hadbun suhkorka ripona evejisu jadofiju vu ukier vif bupa du ipi riletej. Mokow boelelo cuna hum cihoju zeepu koz tisvauro riok renejlu didzor is. Puvhe riv covat rozpo op leguhno ruwupro dil pebko zogit gelkow nev wek."
+  },
+  "apiKey": "fe83f08462eca23ba839b61b3dc7d34aa3eef3a7f5003d7c0daa004e2fa39d92",
+  "currency": {
+    "code": "CUP",
+    "name": "Cuba Peso"
+  }
+}
