@@ -1,0 +1,26 @@
+{
+  "name": "Bruce Bishop",
+  "age": 50,
+  "address": {
+    "street": "Ranut Drive",
+    "city": "Umzeghob",
+    "state": "LA",
+    "zip": "32799"
+  },
+  "contact": {
+    "phone": "(718) 943-2050",
+    "servicePhone": "800893466"
+  },
+  "birthday": "1990-05-11T09:06:45.132Z",
+  "ip": "82.154.85.246",
+  "foo": "bar",
+  "profile": {
+    "about": "Si lahnuz havsapza woklalak dugbez lumjuh niih gac codol rulseh uj pepipge ejarow. Wegir disegwi jovo le zojduc soevi sa faha zosufo nas uje nivo. Litkufe ulujumgap nuj wernudhup ervew vop ven at niun mende deigawoj adu.",
+    "bio": "Ido gap hi begvepguh cuuzlor neji nawobo uc ucbo huzor na manroh nuj akeore lum bad. Gi asiki geok cuapnu ogu laphiwgo vursep zec obenuw nijugi eggijim vilradzim iredudu hot naona imsozuf vavat piili. Kah maro zetvaobo zaf vefsiteg joz cevpu av ir puz mahezupad tuusohi bigocmom."
+  },
+  "apiKey": "d6165064ce66bfeea279c2771fe81055dd62bbdff4e16dd9b8083b217105b0dd",
+  "currency": {
+    "code": "BZD",
+    "name": "Belize Dollar"
+  }
+}
