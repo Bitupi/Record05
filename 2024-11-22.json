@@ -1,0 +1,26 @@
+{
+  "name": "Susie Hoffman",
+  "age": 18,
+  "address": {
+    "street": "Fojnig Path",
+    "city": "Tifikej",
+    "state": "CT",
+    "zip": "07351"
+  },
+  "contact": {
+    "phone": "(664) 338-8478",
+    "servicePhone": "800428172"
+  },
+  "birthday": "2000-03-06T12:19:47.827Z",
+  "ip": "220.81.37.195",
+  "foo": "bar",
+  "profile": {
+    "about": "Kov popebwo liipesaf icepuk ta siemoze ijazocho wiwejip raaca doku he icjoz af ufowu keka faz puv. Ho ogu dirmisoc mec an he nagiza di netewi waclolec nekecmo cot vud ijafuzo. Dureh miwmaf surukap sacmer ciw zenmo gu fejeg donice egjathof roc ohu eka rishekgew cih arce. Zulujuf vulne kuizte tasvowwus pe dujlol wener inga ulupujna lenuhi mipwud do ipu siduz.",
+    "bio": "Giip wattenev huna gorid nud gikab dajhu ruhi laz bebwepkoz gajnartof juckiz fij ko mov. Lo naolatu ob kepcoflo kavpi bi effamaz rok kisurge zaaheepu od nimuove onkad tuavca tas wuzve. Ha erute jogi domub nacej lupsiwdu loljonwu joru lule lauwa kat nif de kejcih. Kofeh ozanefi fiuwoke kenij uf vosojpun cedavegoj opuhouru cabkeb wogagi mowla giscil lacubviv ridvuenu fiko kevibanad tag. Rojbaub esojalu newdosacu of wijiz mopur lok uk kojjir awe cuj uhawibme dagnuner jo sitgoba uta jilvi toscucuj."
+  },
+  "apiKey": "6fb8ff88e990ad48477638cb34f0bd0f51ccc08d616293bbe5b3baac16b0ffb4",
+  "currency": {
+    "code": "HKD",
+    "name": "Hong Kong Dollar"
+  }
+}
